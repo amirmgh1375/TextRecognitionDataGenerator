@@ -94,13 +94,19 @@ you may have to edit `texts/cn.txt` to include some meaningful words instead of 
 
 Here are examples of what I could make with it:
 
-Traditional:
+![26](samples/32.jpg "0")
+![27](samples/33.jpg "1")
+![28](samples/35.jpg "2")
+![29](samples/37.jpg "3")
+![30](samples/38.jpg "4")
+![31](samples/39.jpg "5")
+![32](samples/40.jpg "6")
+![33](samples/41.jpg "7")
+![34](samples/42.jpg "8")
+![35](samples/43.jpg "9")
+![36](samples/44.jpg "10")
+![37](samples/45.jpg "11")
 
-![27](samples/27.jpg "0")
-
-Simplified:
-
-![28](samples/28.jpg "1")
 
 ## Can I add my own font?
 
