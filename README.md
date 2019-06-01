@@ -97,7 +97,6 @@ Here are examples of what I could make with it:
 ![26](samples/32.jpg "0")
 ![27](samples/33.jpg "1")
 ![28](samples/35.jpg "2")
-![29](samples/37.jpg "3")
 ![30](samples/38.jpg "4")
 ![31](samples/39.jpg "5")
 ![32](samples/40.jpg "6")
